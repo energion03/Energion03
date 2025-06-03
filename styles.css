@@ -3241,11 +3241,11 @@ html, body {
 /* Уменьшаем высоту секции тоже */
 @media (min-width: 769px) {
     .top-header {
-        height: 500px !important; /* Уменьшено с 600px до 500px */
+        height: 535px !important; /* Уменьшено с 600px до 500px */
     }
     
     .top-header-content {
-        top: 15px !important;
+        top: 50px !important;
         gap: 10px !important;
     }
     
